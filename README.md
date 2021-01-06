@@ -25,6 +25,7 @@
 - [ ] Learn Basic TypeScript
 - [ ] Participate on a Hackaton
 - [ ] Contribute to more than 2 projects a month
+- [ ] Create a personal website
 
 **A little bit of details**
 
