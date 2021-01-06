@@ -1,15 +1,23 @@
 
 ## Hi, my name is Isabella and I welcome you to my GitHub! 👋
-
-<p align=center>
-
-[![Riquettinha github stats](https://github-readme-stats.vercel.app/api?username=Riquettinha&show_icons=true&count_private=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Linkeding](/linkedin.png)](http://linkedin.com/in/isabella-riquetti/?locale=en_US)
-[![Twitter](/twitter.png)](http://twitter.com/Riquettinha)
-[![Instagram](/instagram.png)](http://instagram.com/Riquettinha)
-
+<p align="center">
+	<a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Riquettinha&show_icons=true&count_private=true&hide=prs">
+  </a>
+  
+  <br/>
+  <a target="_blank" href="http://linkedin.com/in/isabella-riquetti/?locale=en_US">
+    <img src="/linkedin.png">
+  </a>
+  <a target="_blank" href="http://twitter.com/Riquettinha">
+    <img src="/twitter.png">
+  </a>
+  <a target="_blank" href="http://instagram.com/Riquettinha">
+    <img src="/instagram.png">
+  </a>
+  
 </p>
+
 
 **Goals for 2021:**
 - [ ] Finish and understand my Design Patterns book
