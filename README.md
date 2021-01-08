@@ -24,7 +24,7 @@
 - [ ] Finish and understand my Algorithms and Data Structures book
 - [ ] Learn Basic TypeScript
 - [ ] Participate on a Hackaton
-- [ ] Contribute to more than 2 projects a month
+- [ ] Contribute to more than 2 projects a month and or create a post sharing my experiences with the comunnity
 - [ ] Create a personal website
 
 **A little bit of details**
