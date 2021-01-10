@@ -1,10 +1,11 @@
 
 ## Hi, my name is Isabella and I welcome you to my GitHub! 👋
 <p align="center">
-	<a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Riquettinha&show_icons=true&count_private=true&">
+  <img src="https://github-readme-stats.vercel.app/api?username=Riquettinha&show_icons=true&count_private=true&">
+  <br/><a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><sub>GitHub Stats Source</sub>
   </a>
   
+  <br/>
   <br/>
   <a target="_blank" href="http://linkedin.com/in/isabella-riquetti/?locale=en_US">
     <img src="/linkedin.png">
