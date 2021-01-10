@@ -1,20 +1,22 @@
 
 ## Hi, my name is Isabella and I welcome you to my GitHub! 👋
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riquettinha&show_icons=true&count_private=true&">
-  <br/><a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><sub>GitHub Stats Source</sub>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Riquettinha&show_icons=true&count_private=true"/>
   
   <br/>
   <br/>
   <a target="_blank" href="http://linkedin.com/in/isabella-riquetti/?locale=en_US">
-    <img src="/linkedin.png">
+    <img src="/icons/linkedin.png">
   </a>
   <a target="_blank" href="http://twitter.com/Riquettinha">
-    <img src="/twitter.png">
+    <img src="/icons/twitter.png">
   </a>
   <a target="_blank" href="http://instagram.com/Riquettinha">
-    <img src="/instagram.png">
+    <img src="/icons/instagram.png">
+  </a>
+  <a target="_blank" href="https://stackoverflow.com/users/6650677/isabella-riquetti?tab=profile">
+    <img src="/icons/stack-overflow.png">
   </a>
   
 </p>
@@ -52,3 +54,8 @@ My favorite project managing framework is Scrum, but I often find myself realizi
 I don’t have any experience using another cloud computing platform other than Azure, but I don’t dismiss Amazon, I just only had experience with one of them, and because of it, I’m more experienced in Azure and its services.
 I really like to develop API's and Web Applications, but if its needed I can developer Desktop and Mobile apps too.
 Even tho is not my specialty I like frontend development, my experience with it is very limited, and I’m still just starting to learn how to use Typescript, but I still like this field.
+
+<sub>
+	GitHub Stats Source by <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">github/anuraghazra/github-readme-stats</a><br>
+	Icons made by <a href="https://icon54.com/" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+</sub>
