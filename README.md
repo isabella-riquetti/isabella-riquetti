@@ -2,7 +2,7 @@
 ## Hi, my name is Isabella and I welcome you to my GitHub! 👋
 <p align="center">
 	<a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Riquettinha&show_icons=true&count_private=true&hide=prs">
+    <img src="https://github-readme-stats.vercel.app/api?username=Riquettinha&show_icons=true&count_private=true&">
   </a>
   
   <br/>
