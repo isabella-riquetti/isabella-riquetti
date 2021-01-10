@@ -9,14 +9,20 @@
   <a target="_blank" href="http://linkedin.com/in/isabella-riquetti/?locale=en_US">
     <img src="/icons/linkedin.png">
   </a>
+  <a target="_blank" href="https://stackoverflow.com/users/6650677/isabella-riquetti?tab=profile">
+    <img src="/icons/stack-overflow.png">
+  </a>
+  <a target="_blank" href="http://gitlab.com/Riquettinha">
+    <img src="/icons/gitlab.png">
+  </a>
+  <a target="_blank" href="mailto:isabella.riquetti@outlook.com">
+    <img src="/icons/email.png">
+  </a>
   <a target="_blank" href="http://twitter.com/Riquettinha">
-    <img src="/icons/twitter.png">
+    <img src="/icons/stack-overflow.png">
   </a>
   <a target="_blank" href="http://instagram.com/Riquettinha">
     <img src="/icons/instagram.png">
-  </a>
-  <a target="_blank" href="https://stackoverflow.com/users/6650677/isabella-riquetti?tab=profile">
-    <img src="/icons/stack-overflow.png">
   </a>
   
 </p>
