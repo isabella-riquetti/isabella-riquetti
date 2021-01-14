@@ -2,9 +2,9 @@
 ## Hi, my name is Isabella and I welcome you to my GitHub! 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riquettinha&show_icons=true&count_private=true"/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Riquettinha&layout=compact"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Riquettinha&show_icons=true&count_private=true"/>
   
   <br/>
   <br/>
@@ -38,14 +38,14 @@
 - [ ] Finish and understand my Algorithms and Data Structures book
 - [ ] Learn Basic TypeScript
 - [ ] Participate in a Hackaton
-- [ ] Contribute to more than 2 projects a month and or create a post sharing my experiences with the community
+- [ ] Contribute to the community
 - [ ] Create a personal website
 
 **Few details**
 
 - 😄 She/her
 
-- ⚡ My passions are cats, programming, mangas, and gaming. Currently, I'm not playing games lately because of my studies, but every free I'm reading a manga.
+- ⚡ My passions are cats, programming, mangas, and gaming. Currently, I'm not playing games lately because of my studies, but every free time I'm reading manga.
 
 - 🌱 I’m currently learning more about Design Patterns and how and when to use each one. Also, now that I'm more aware of the benefits of Algorithms and Data Structures, I’m reviewing and training them. The Habitica app is helping me to keep studying every day and I'm using NimbleNotes to take note in English of my studies, so I can practice programming and English together!
 
