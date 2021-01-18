@@ -2,7 +2,7 @@
 ## Hi, my name is Isabella and I welcome you to my GitHub! 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Riquettinha&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Riquettinha&layout=compact&hide=other"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Riquettinha&show_icons=true&count_private=true"/>
   
