@@ -1,11 +1,11 @@
 
 ## Hi, my name is Isabella and I welcome you to my GitHub! 👋
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Riquettinha&layout=compact&hide=other"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Riquettinha&layout=compact"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Riquettinha&show_icons=true&count_private=true"/>
-  
   <br/>
   <br/>
   <a target="_blank" href="http://linkedin.com/in/isabella-riquetti/?locale=en_US">
@@ -37,7 +37,7 @@
 - [ ] Finish and understand my Design Patterns book
 - [ ] Finish and understand my Algorithms and Data Structures book
 - [ ] Learn Basic TypeScript
-- [ ] Participate in a Hackaton
+- [X] Participate in a Hackaton
 - [ ] Contribute to the community
 - [ ] Create a personal website
 
