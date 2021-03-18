@@ -34,10 +34,9 @@
 
 **Goals for 2021:**
 - [ ] Finish and understand my Design Patterns book
-- [ ] Finish and understand my Algorithms and Data Structures book
-- [ ] Learn Basic TypeScript
+- [X] Finish and understand my Algorithms and Data Structures book
+- [X] Learn Basic TypeScript
 - [X] Participate in a Hackaton
-- [ ] Contribute to the community
 - [ ] Create a personal website
 
 **Few details**
