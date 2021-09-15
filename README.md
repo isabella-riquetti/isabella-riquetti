@@ -2,10 +2,10 @@
 ## Hi, my name is Isabella and I welcome you to my GitHub! 👋
 
 <p align="center">
-  <!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=isabella-riquetti&theme=tokyonight&layout=compact"/>
+  <!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=isabella-riquetti&layout=compact"/>
   <br/>-->
   <a href="https://github.com/isabella-riquetti">
-    <img src="https://github-readme-stats.vercel.app/api?username=isabella-riquetti&show_icons=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=isabella-riquetti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
   <br/>
   <br/>
