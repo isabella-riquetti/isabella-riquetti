@@ -54,8 +54,9 @@
 	Icons made by <a href="https://icon54.com/" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 </sub>
 
-### GitLab activity
-
-<a href="https://github.com/isabella-riquetti">
-  <img src="https://combinecodingstats.azurewebsites.net/gitlab/riquettinha">
-</a>
+<h3>✨ My GitLab Contribution Graph ✨</h3>
+<p align="center">
+  <a href="https://github.com/isabella-riquetti">
+    <img src="https://combinecodingstats.azurewebsites.net/gitlab/riquettinha">
+  </a>
+</p>
