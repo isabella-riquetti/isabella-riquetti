@@ -53,3 +53,9 @@
 	GitHub Stats Source by <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">github/anuraghazra/github-readme-stats</a><br>
 	Icons made by <a href="https://icon54.com/" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 </sub>
+
+### GitLab activity
+
+<a href="https://github.com/isabella-riquetti">
+  <img src="https://combinecodingstats.azurewebsites.net/gitlab/riquettinha">
+</a>
