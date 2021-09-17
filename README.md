@@ -47,14 +47,14 @@
 
 - ⚡ My passions are cats, programming, mangas, and gaming. Currently, I'm not playing games lately because of my studies, but every free time I'm reading manga.
 
-- 🌱 I’m currently learning more about Design Patterns and how and when to use each one. Also, now that I'm more aware of the benefits of Algorithms and Data Structures, I’m reviewing and training them. The Habitica app is helping me to keep studying every day and I'm using NimbleNotes to take note in English of my studies, so I can practice programming and English together!
+- 🌱 I’m currently learning more about Design Patterns and how and when to use each one. Also, now that I'm more aware of the benefits of Algorithms and Data Structures, I’m reviewing and training them.
 
 <sub>
 	GitHub Stats Source by <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">github/anuraghazra/github-readme-stats</a><br>
 	Icons made by <a href="https://icon54.com/" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 </sub>
 
-<h3>✨ My GitLab Contribution Graph, made by me "CombinedCodingStats repository" ✨</h3>
+<h3>✨ My GitLab Contribution Graph, made by me! Please visit <a href="https://github.com/isabella-riquetti/CombinedCodingStats">CombinedCodingStats</a> ✨</h3>
 <p align="center">
   <a href="http://gitlab.com/Riquettinha">
     <img src="https://combinedcodingstats.azurewebsites.net/gitlab/riquettinha">
