@@ -57,6 +57,6 @@
 <h3>✨ My GitLab Contribution Graph, made by me "CombinedCodingStats repository" ✨</h3>
 <p align="center">
   <a href="http://gitlab.com/Riquettinha">
-    <img src="https://combinecodingstats.azurewebsites.net/gitlab/riquettinha?platform=github">
+    <img src="https://combinecodingstats.azurewebsites.net/gitlab/riquettinha?platform=gitlab&theme=light">
   </a>
 </p>
