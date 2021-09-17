@@ -54,9 +54,9 @@
 	Icons made by <a href="https://icon54.com/" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 </sub>
 
-<h3>✨ My GitLab Contribution Graph ✨</h3>
+<h3>✨ My GitLab Contribution Graph, made by me "CombinedCodingStats repository" ✨</h3>
 <p align="center">
   <a href="http://gitlab.com/Riquettinha">
-    <img src="https://combinecodingstats.azurewebsites.net/gitlab/riquettinha/dark">
+    <img src="https://combinecodingstats.azurewebsites.net/gitlab/riquettinha">
   </a>
 </p>
