@@ -39,6 +39,7 @@
 - [X] Learn Basic TypeScript
 - [X] Participate in a Hackaton
 - [ ] Create a personal website
+- [X] Contribute to open source
 
 **Few details**
 
