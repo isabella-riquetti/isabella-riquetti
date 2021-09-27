@@ -34,20 +34,21 @@
 
 
 **Goals for 2021:**
-- [ ] Finish and understand my Design Patterns book
-- [X] Finish and understand my Algorithms and Data Structures book
-- [X] Learn Basic TypeScript
 - [X] Participate in a Hackaton
-- [ ] Create a personal website
 - [X] Contribute to open source
+- [X] Learn Basic TypeScript
+- [ ] Study more about Algorithms and Data Structures book
+- [ ] Study more about Design Patterns
+- [ ] Create a personal website
+- [X] Share my GitLab metrics here in my README
+- [X] Crete basic chat using webhooks
+- [ ] Use webhooks to create a notificator about changes made outside the page
 
 **Few details**
 
 - 😄 She/her
 
-- ⚡ My passions are cats, programming, mangas, and gaming. Currently, I'm not playing games lately because of my studies, but every free time I'm reading manga.
-
-- 🌱 I’m currently learning more about Design Patterns and how and when to use each one. Also, now that I'm more aware of the benefits of Algorithms and Data Structures, I’m reviewing and training them.
+- ⚡ My passions are cats, programming, mangas, and gaming.
 
 <sub>
 	GitHub Stats Source by <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">github/anuraghazra/github-readme-stats</a><br>
