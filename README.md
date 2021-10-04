@@ -37,8 +37,7 @@
 - [X] Participate in a Hackaton
 - [X] Contribute to open source
 - [X] Learn Basic TypeScript
-- [ ] Study more about Algorithms and Data Structures book
-- [ ] Study more about Design Patterns
+- [ ] Learn more about Docker
 - [ ] Create a personal website
 - [X] Share my GitLab metrics here in my README
 - [X] Crete basic chat using webhooks
