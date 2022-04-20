@@ -37,7 +37,7 @@
 - [X] Participate in a Hackaton
 - [X] Contribute to open source
 - [X] Learn Basic TypeScript
-- [ ] Learn more about Docker
+- [X] Learn more about Docker
 - [ ] Create a personal website
 - [X] Share my GitLab metrics here in my README
 - [X] Crete basic chat using webhooks
