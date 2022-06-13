@@ -33,7 +33,7 @@
 </p>
 
 
-**Goals for 2021:**
+**Goals for 2022:**
 - [X] Participate in a Hackaton
 - [X] Contribute to open source
 - [X] Learn Basic TypeScript
