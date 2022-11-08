@@ -14,14 +14,17 @@
   <a target="_blank" href="https://stackoverflow.com/users/6650677/isabella-riquetti?tab=profile">
     <img src="/icons/stack-overflow.png">
   </a>
-  <a target="_blank" href="http://gitlab.com/Riquettinha">
+<!---<a target="_blank" href="http://gitlab.com/Riquettinha">
     <img src="/icons/gitlab.png">
+  </a>-->
+  <a target="_blank" href="mailto:isabella.riquetti@outlook.com">
+    <img src="/icons/email.png">
+  </a>
+  <a target="_blank" href="http://isabella-riquetti.github.io">
+    <img src="/icons/click.png">
   </a>
   <a target="_blank" href="https://join.skype.com/invite/BYybLhPYhrYg">
     <img src="/icons/skype.png">
-  </a>
-  <a target="_blank" href="mailto:isabella.riquetti@outlook.com">
-    <img src="/icons/email.png">
   </a>
   <a target="_blank" href="http://instagram.com/Riquettinha">
     <img src="/icons/instagram.png">
@@ -38,10 +41,10 @@
 - [X] Contribute to open source
 - [X] Learn Basic TypeScript
 - [X] Learn more about Docker
-- [ ] Create a personal website
+- [x] Create a personal website
 - [X] Share my GitLab metrics here in my README
 - [X] Crete basic chat using webhooks
-- [ ] Use webhooks to create a notificator about changes made outside the page
+- [x] Use webhooks to create a notificator about changes made outside the page
 
 **Few details**
 
