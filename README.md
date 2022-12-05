@@ -8,13 +8,13 @@
 
   <br/>
   <br/>
-  <a target="_blank" href="http://linkedin.com/in/isabella-riquetti/?locale=en_US">
-    <img src="/icons/linkedin.png">
+  <!--<a target="_blank" href="http://linkedin.com/in/isabella-riquetti/?locale=en_US">
+    <img src="/icons/linkedin.png">-->
   </a>
   <a target="_blank" href="https://stackoverflow.com/users/6650677/isabella-riquetti?tab=profile">
     <img src="/icons/stack-overflow.png">
   </a>
-<!---<a target="_blank" href="http://gitlab.com/Riquettinha">
+<!--<a target="_blank" href="http://gitlab.com/Riquettinha">
     <img src="/icons/gitlab.png">
   </a>-->
   <a target="_blank" href="mailto:isabella.riquetti@outlook.com">
