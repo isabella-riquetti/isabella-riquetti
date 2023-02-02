@@ -1,10 +1,10 @@
 ## Hi, my name is Isabella and I welcome you to my GitHub! 👋
 
 <p align="center">
-  <a href="https://github.com/isabella-riquetti">
+  <!--<a href="https://github.com/isabella-riquetti">
     <img height="180em" src="https://mydevmetrics.azurewebsites.net/GitHub/GitHubStats/Customize/isabella-riquetti"/>
     <img height="180em" src="https://mydevmetrics.azurewebsites.net/GitHub/Languages/Customize/isabella-riquetti"/>
-  </a>
+  </a>-->
 
   <br/>
   <br/>
