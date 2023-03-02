@@ -5,7 +5,7 @@
     <img height="180em" src="https://mydevmetrics.azurewebsites.net/GitHub/GitHubStats/Customize/isabella-riquetti"/>
     <img height="180em" src="https://mydevmetrics.azurewebsites.net/GitHub/Languages/Customize/isabella-riquetti"/>
   </a>-->
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabella-riquetti&count_private=true&show_icons=true&hide=contribs,prs,issues&theme=solarized-light"/>
   <br/>
   <br/>
   <!--<a target="_blank" href="http://linkedin.com/in/isabella-riquetti/?locale=en_US">
