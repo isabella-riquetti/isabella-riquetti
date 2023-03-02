@@ -36,7 +36,7 @@
 </p>
 
 
-**Goals for 2022:**
+**Goals:**
 - [X] Participate in a Hackaton
 - [X] Contribute to open source
 - [X] Learn Basic TypeScript
