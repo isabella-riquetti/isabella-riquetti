@@ -45,6 +45,7 @@
 - [X] Share my GitLab metrics here in my README
 - [X] Crete basic chat using webhooks
 - [x] Use webhooks to create a notificator about changes made outside the page
+- [ ] Portifolio
 
 **Few details**
 
