@@ -20,7 +20,7 @@
   <a target="_blank" href="mailto:isabella.riquetti@outlook.com">
     <img src="/icons/email.png">
   </a>
-  <a target="_blank" href="http://isabella-riquetti.github.io">
+  <a target="_blank" href="https://isabella-riquetti.netlify.app/">
     <img src="/icons/click.png">
   </a>
   <a target="_blank" href="https://join.skype.com/invite/BYybLhPYhrYg">
@@ -28,9 +28,6 @@
   </a>
   <a target="_blank" href="http://instagram.com/Riquettinha">
     <img src="/icons/instagram.png">
-  </a>
-  <a target="_blank" href="http://twitter.com/Riquettinha">
-    <img src="/icons/twitter.png">
   </a>
 
 </p>
@@ -45,7 +42,7 @@
 - [X] Share my GitLab metrics here in my README
 - [X] Crete basic chat using webhooks
 - [x] Use webhooks to create a notificator about changes made outside the page
-- [ ] Portifolio
+- [x] Portifolio
 
 **Few details**
 
