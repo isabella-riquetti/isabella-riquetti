@@ -48,7 +48,7 @@
 
 - 😄 She/her
 
-- ⚡ My passions are cats, programming, mangas, and gaming.
+- ⚡ My passions are cats, programming, archery, mangas, and gaming.
 
 <sub>
 	GitHub Stats Source by <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">github/anuraghazra/github-readme-stats</a><br>
