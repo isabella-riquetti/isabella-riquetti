@@ -40,7 +40,7 @@
 
 </p>
 <p align="center">	
-  <img src="https://komarev.com/ghpvc/?username=isabella-riquetti" />
+  <img src="https://komarev.com/ghpvc/?username=isabella-riquetti&style=pixel" />
 </p>
 <sub>
 	Icons made by <a href="https://icon54.com/" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
