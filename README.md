@@ -1,6 +1,6 @@
 ## Hi, my name is Isabella and I welcome you to my GitHub! 👋
 
-<p align="center">
+<p>
   <img src="https://github-profile-trophy.vercel.app/?username=isabella-riquetti&theme=onedark&title=-Issues,-PullRequest,-Reviews" />
 </p>
 
