@@ -22,18 +22,10 @@
 - ⚡ My passions are cats, programming, archery, mangas, and gaming.
 
 <p align="center">
-  <a target="_blank" href="mailto:isabella.riquetti@outlook.com" style="text-decoration:none;">
-    <img src="/icons/email.png">
-  </a>
-  <a target="_blank" href="https://isabella-riquetti.netlify.app/" style="text-decoration:none;">
-    <img src="/icons/click.png">
-  </a>
-  <a target="_blank" href="https://join.skype.com/invite/BYybLhPYhrYg" style="text-decoration:none;">
-    <img src="/icons/skype.png">
-  </a>
-  <a target="_blank" href="http://instagram.com/Riquettinha" style="text-decoration:none;">
-    <img src="/icons/instagram.png">
-  </a>
+  <a target="_blank" href="mailto:isabella.riquetti@outlook.com"><img src="/icons/email.png"></a>
+  <a target="_blank" href="https://isabella-riquetti.netlify.app/"><img src="/icons/click.png"></a>
+  <a target="_blank" href="https://join.skype.com/invite/BYybLhPYhrYg"><img src="/icons/skype.png"></a>
+  <a target="_blank" href="http://instagram.com/Riquettinha"><img src="/icons/instagram.png"></a>
 
 </p>
 <p align="center">	
