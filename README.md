@@ -1,37 +1,8 @@
 ## Hi, my name is Isabella and I welcome you to my GitHub! 👋
 
-<p align="center">
-  <!--<a href="https://github.com/isabella-riquetti">
-    <img height="180em" src="https://mydevmetrics.azurewebsites.net/GitHub/GitHubStats/Customize/isabella-riquetti"/>
-    <img height="180em" src="https://mydevmetrics.azurewebsites.net/GitHub/Languages/Customize/isabella-riquetti"/>
-  </a>-->
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabella-riquetti&count_private=true&show_icons=true&hide=contribs,prs,issues&theme=solarized-light"/>
-  <br/>
-  <br/>
-  <a target="_blank" href="http://linkedin.com/in/isabella-riquetti/?locale=en_US">
-    <img src="/icons/linkedin.png">
-  </a>-->
-  <a target="_blank" href="https://stackoverflow.com/users/6650677/isabella-riquetti?tab=profile">
-    <img src="/icons/stack-overflow.png">
-  </a>
-<!--<a target="_blank" href="http://gitlab.com/Riquettinha">
-    <img src="/icons/gitlab.png">
-  </a>-->
-  <a target="_blank" href="mailto:isabella.riquetti@outlook.com">
-    <img src="/icons/email.png">
-  </a>
-  <a target="_blank" href="https://isabella-riquetti.netlify.app/">
-    <img src="/icons/click.png">
-  </a>
-  <a target="_blank" href="https://join.skype.com/invite/BYybLhPYhrYg">
-    <img src="/icons/skype.png">
-  </a>
-  <a target="_blank" href="http://instagram.com/Riquettinha">
-    <img src="/icons/instagram.png">
-  </a>
-
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=isabella-riquetti&theme=onedark&title=-Issues,-PullRequest,-Reviews" />
 </p>
-
 
 **Goals:**
 - [X] Participate in a Hackaton
@@ -50,7 +21,27 @@
 
 - ⚡ My passions are cats, programming, archery, mangas, and gaming.
 
+<p align="center">
+  <a target="_blank" href="https://stackoverflow.com/users/6650677/isabella-riquetti?tab=profile">
+    <img src="/icons/stack-overflow.png">
+  </a>
+  <a target="_blank" href="mailto:isabella.riquetti@outlook.com">
+    <img src="/icons/email.png">
+  </a>
+  <a target="_blank" href="https://isabella-riquetti.netlify.app/">
+    <img src="/icons/click.png">
+  </a>
+  <a target="_blank" href="https://join.skype.com/invite/BYybLhPYhrYg">
+    <img src="/icons/skype.png">
+  </a>
+  <a target="_blank" href="http://instagram.com/Riquettinha">
+    <img src="/icons/instagram.png">
+  </a>
+
+</p>
+<p align="center">	
+  <img src="https://komarev.com/ghpvc/?username=isabella-riquetti" />
+</p>
 <sub>
-	GitHub Stats Source by <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">github/anuraghazra/github-readme-stats</a><br>
 	Icons made by <a href="https://icon54.com/" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 </sub>
