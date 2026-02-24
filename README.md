@@ -20,17 +20,3 @@
 - 😄 She/her
 
 - ⚡ My passions are cats, programming, archery, mangas, and gaming.
-
-<p align="center">
-  <a target="_blank" href="mailto:isabella.riquetti@outlook.com"><img src="/icons/email.png"></a>
-  <a target="_blank" href="https://isabella-riquetti.netlify.app/"><img src="/icons/click.png"></a>
-  <a target="_blank" href="https://join.skype.com/invite/BYybLhPYhrYg"><img src="/icons/skype.png"></a>
-  <a target="_blank" href="http://instagram.com/Riquettinha"><img src="/icons/instagram.png"></a>
-
-</p>
-<p align="center">	
-  <img src="https://komarev.com/ghpvc/?username=isabella-riquetti&style=pixel" />
-</p>
-<sub>
-	Icons made by <a href="https://icon54.com/" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
-</sub>
