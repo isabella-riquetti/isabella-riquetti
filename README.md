@@ -77,24 +77,9 @@ A full working website I built end-to-end — one of my proudest projects so far
 
 ---
 
-### 📊 GitHub stats
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=isabella-riquetti&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Isabella's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabella-riquetti&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=isabella-riquetti&theme=radical&hide_border=true" alt="GitHub streak stats" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=isabella-riquetti&theme=react-dark&hide_border=true" alt="Contribution activity graph" width="90%" />
-
-</div>
-
----
-
-<div align="center">
-
-*Thanks for stopping by — feel free to explore my repos, or say hi on my [personal site](http://isabella-riquetti.netlify.app/)!* 🐾
+*Thanks for stopping by! Feel free to explore my repos, or say hi on my [personal site](http://isabella-riquetti.netlify.app/)!* 🐾
 
 ![Profile views](https://komarev.com/ghpvc/?username=isabella-riquetti&color=A78BFA&style=flat)
 
