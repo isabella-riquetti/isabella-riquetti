@@ -12,7 +12,7 @@
 
 ### 🌟 About me
 
-I'm a developer who likes turning ideas into small, working things — and then telling people about them here. When I'm not coding you'll usually find me practicing archery, deep in a manga, gaming, or being supervised by a cat.
+I'm a developer who likes turning ideas into small, working things, and then telling people about them here. When I'm not coding you'll usually find me practicing archery, deep in a manga, gaming, or being supervised by a cat.
 
 - ⚡ Passions: cats, programming, archery, manga, and gaming
 - 🌐 Check out my latest full projects: **[planye](https://planye.com/)** and **[habity.care](https://habity.care/)**
@@ -26,7 +26,7 @@ I'm a developer who likes turning ideas into small, working things — and then 
 
 I finished my last goal list, so here's what's next:
 
-- [ ] Go deeper into Docker — multi-container apps with Docker Compose
+- [ ] Go deeper into Docker: multi-container apps with Docker Compose
 - [ ] Set up a CI/CD pipeline for one of my projects
 - [ ] Keep growing **[planye](https://planye.com/)** with new features
 - [ ] Help small companies to have their own websites
